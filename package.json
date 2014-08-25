@@ -1,0 +1,37 @@
+{
+  "name": "txt",
+  "version": "1.0.0",
+  "description": "Utilities for working with text.",
+  "main": "txt.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "text",
+    "string",
+    "match",
+    "delimit",
+    "truncate",
+    "escape",
+    "pluralize",
+    "capitalize"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyvrw/txt.git"
+  },
+  "author": "wyvrw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wyvrw/txt/issues"
+  },
+  "homepage": "https://github.com/wyvrw/txt",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "gulp": "^3.8.7",
+    "gulp-mocha": "^1.0.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^0.3.1",
+    "mocha": "^1.21.4"
+  }
+}

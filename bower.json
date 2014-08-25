@@ -1,0 +1,26 @@
+{
+  "name": "txt",
+  "main": "txt.js",
+  "version": "1.0.0",
+  "description": "Utilities for working with text.",
+  "keywords": [
+    "text",
+    "string",
+    "match",
+    "delimit",
+    "truncate",
+    "escape",
+    "pluralize",
+    "capitalize"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "src",
+    "tests",
+    ".*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "package.json"
+  ]
+}
