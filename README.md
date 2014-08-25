@@ -157,13 +157,13 @@ Returns the singular or plural version of a word, depending on a number.
 ```javascript
 txt.pluralize(0, {
 	singular: 'person',
-	pluralize: 'people'
+	plural: 'people'
 });
 // 'people'
 
 txt.pluralize(1, {
 	singular: 'person',
-	pluralize: 'people'
+	plural: 'people'
 });
 // 'person'
 ```
