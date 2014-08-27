@@ -2,7 +2,7 @@
   "name": "txt",
   "main": "txt.js",
   "version": "1.0.0",
-  "description": "Utilities for working with text.",
+  "description": "Utilities for working with text that is from or for humans.",
   "keywords": [
     "text",
     "string",

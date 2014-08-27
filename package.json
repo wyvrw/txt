@@ -1,7 +1,7 @@
 {
   "name": "txt",
   "version": "1.0.0",
-  "description": "Utilities for working with text.",
+  "description": "Utilities for working with text that is from or for humans.",
   "main": "txt.js",
   "scripts": {
     "test": "gulp"
